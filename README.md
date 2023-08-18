@@ -24,6 +24,11 @@ During the collection of this dataset, 28 PD patients are asked to say only the 
 6.  Measure the Performance of the model using K-fold Cross Validation and obtain the values of Accuracy, Precision, and Recall.
 7.   Apply statistical tests to explain the goodness of fit.
 
+## Visualisation
+Observations from histogram visualizations of each 27 dimensions/features.
+![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/a9eea31f-f74c-467f-93eb-eac429fe7c05)
+![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/0cfba4b2-17fa-40e8-bf85-0ffd98086a12)
+
 
 ## Summary
 ### Problem Statement: 
