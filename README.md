@@ -15,4 +15,11 @@ The PD database consists of training and test files. The training data belongs t
 
 During the collection of this dataset, 28 PD patients are asked to say only the sustained vowels 'a' and 'o' three times respectively which makes a total of 168 recordings. The same 26 features are extracted from voice samples of this dataset. This dataset can be used as an independent test set to validate the results obtained on the training set.
 
-
+## Steps used for solving the problem
+1. Read the Input dataset.
+2. Perform all necessary Data Normalization, Standardization processing to prepare the transformed format of the given input dataset.
+3.  Impute Missing values
+4.  Perform Exploratory Data Analysis/Visualization and bring insights into the predictor variables.
+5.  Apply Logistic Regression Classification, Gaussian Naïve Bayes, and Decision tree classifier by splitting data into train and test.
+6.  Measure the Performance of the model using K-fold Cross Validation and obtain the values of Accuracy, Precision, and Recall.
+7.   Apply statistical tests to explain the goodness of fit.
