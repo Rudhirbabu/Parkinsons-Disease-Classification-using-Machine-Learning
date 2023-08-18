@@ -38,6 +38,7 @@ Logistic regression is a classification algorithm used to assign observations
 
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/92eba18f-4a75-44b0-b363-ac71e1369b80)
 
+The figure above shows the confusion matrix for the logistic regression classifier application on the Speech recording dataset for Parkinson's disease.
 
 ## 2. Gaussian Naive Bayes Classifier
 Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It's a family of algorithms 
@@ -45,12 +46,15 @@ where all of them share a common principle, i.e. every pair of features being cl
 
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/f1bf10b8-5ffe-489d-bf97-52a8f4d8a5ae)
 
+The figure above shows the confusion matrix for the Gaussian Naive Bayes classifier application on the Speech recording dataset for Parkinson's disease.
+
 
 ## 3. Decision Tree Classifier
 The decision criteria are different for classification and regression trees. Decision trees use multiple algorithms to decide to split a node into two or more sub-nodes. ... The decision tree splits the nodes on all available variables and then selects the split which results in the most homogeneous sub-nodes.
 
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/f4e3a891-d9c1-4d47-bb88-5b7af7684e44)
 
+The figure above shows the confusion matrix for the Decision Tree classifier application on the Speech recording dataset for Parkinson's disease.
 
 ## Summary
 ### Problem Statement: 
