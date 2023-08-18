@@ -10,4 +10,9 @@ Popular machine learning algorithms are applied to the given dataset so as to cl
 ## Dataset
 Our dataset is from Kaggle listed under the name “Parkinson’s Disease Classification” and it initially included about 3 million data points. It contained 27 features and 1 label which can be examined. Two data points from the unprocessed dataset We processed some of the existing features, created new features that we thought could be useful for prediction, and discarded some features using the library Pandas.
 
+## Dataset Information
+The PD database consists of training and test files. The training data belongs to 20 PWP (6 female, 14 male) and 20 healthy individuals (10 female, 10 male) who appealed at the Department of Neurology in Cerrahpasa Faculty of Medicine, Istanbul University. From all subjects, multiple types of sound recordings (26 voice samples including sustained vowels, numbers, words, and short sentences) are taken. A group of 26 linear and time frequency-based features are extracted from each voice sample. UPDRS (Unified Parkinson’s Disease Rating Scale) score of each patient which is determined by an expert physician is also available in this dataset.
+
+During the collection of this dataset, 28 PD patients are asked to say only the sustained vowels 'a' and 'o' three times respectively which makes a total of 168 recordings. The same 26 features are extracted from voice samples of this dataset. This dataset can be used as an independent test set to validate the results obtained on the training set.
+
 
