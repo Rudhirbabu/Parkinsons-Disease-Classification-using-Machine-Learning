@@ -26,6 +26,7 @@ During the collection of this dataset, 28 PD patients are asked to say only the 
 
 ## Visualisation
 Observations from histogram visualizations of each 27 dimensions/features.
+
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/a9eea31f-f74c-467f-93eb-eac429fe7c05)
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/0cfba4b2-17fa-40e8-bf85-0ffd98086a12)
 
@@ -34,17 +35,20 @@ Observations from histogram visualizations of each 27 dimensions/features.
 
 ## 1. Logistic Regression
 Logistic regression is a classification algorithm used to assign observations to a discrete set of classes. Logistic regression transforms its output using the logistic sigmoid function to return a probability value.
+
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/92eba18f-4a75-44b0-b363-ac71e1369b80)
 
 
 ## 2. Gaussian Naive Bayes Classifier
-Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. Its a family of algorithms 
-where all of them share a common principle, i.e. every pair of features being classified are independent of each other. 
+Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It's a family of algorithms 
+where all of them share a common principle, i.e. every pair of features being classified are independent of each other.
+
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/f1bf10b8-5ffe-489d-bf97-52a8f4d8a5ae)
 
 
 ## 3. Decision Tree Classifier
 The decision criteria are different for classification and regression trees. Decision trees use multiple algorithms to decide to split a node into two or more sub-nodes. ... The decision tree splits the nodes on all available variables and then selects the split which results in the most homogeneous sub-nodes.
+
 ![image](https://github.com/Rudhirbabu/Parkinsons-Disease-Classification-using-Machine-Learning/assets/57451819/f4e3a891-d9c1-4d47-bb88-5b7af7684e44)
 
 
