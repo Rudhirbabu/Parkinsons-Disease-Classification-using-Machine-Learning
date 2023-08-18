@@ -23,3 +23,19 @@ During the collection of this dataset, 28 PD patients are asked to say only the 
 5.  Apply Logistic Regression Classification, Gaussian Naïve Bayes, and Decision tree classifier by splitting data into train and test.
 6.  Measure the Performance of the model using K-fold Cross Validation and obtain the values of Accuracy, Precision, and Recall.
 7.   Apply statistical tests to explain the goodness of fit.
+
+
+## Summary
+### Problem Statement: 
+To detect if a person has Parkinson’s disease or not use multiple types of sound recordings.
+All the models are compared using a table where the accuracy, precision, recall, and F-score have been 
+mentioned. Although Gaussian Naive Bayes has the highest accuracy value, the T-test will confirm which model is the best fit for the given dataset.
+### Dataset: 
+The dataset consists of: Train:(1040,29) 	Test:(168,28)
+### Steps used to solve the problem:
+Based on the least RMSE value of the particular algorithm, the data used was normalized or standardized, or raw.
+### Results: 
+#### T-test: 
+The T-Test is performed between all the models taken two at a time and the only set where the null hypothesis was accepted is when the test was performed between Naive Bayes and Logistic Regression.
+### Conclusion: 
+Hence, Logistic Regression and Naive Bayes are our best-fit models.
